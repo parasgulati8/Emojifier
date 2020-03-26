@@ -20,4 +20,5 @@ We use pretrained 50-dimensional GloVe embeddings to represent words in vector f
 - The LSTM model achieves an accuracy of 82% on test set
 
 ## References
+The project is a part of an online course on Sequence Models that I completed on Coursera
 https://www.coursera.org/learn/nlp-sequence-models
